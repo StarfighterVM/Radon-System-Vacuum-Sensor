@@ -201,5 +201,3 @@ assuming it matches this example.
 
 ---
 
-For the full build/debug log this guide was distilled from, see
-[`10-radon-monitoring.md`](10-radon-monitoring.md).
