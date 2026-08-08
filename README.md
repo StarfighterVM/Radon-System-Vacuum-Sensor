@@ -56,7 +56,9 @@ the sensor:
 Keep the sensor-to-board cable run short — Sensirion's engineering
 guidance for this sensor is 20cm or less between sensor and MCU.
 
-<!-- PHOTO: bench wiring-verification shot showing the traced/labeled splice -->
+![Splicing the DuraClik pigtail to the STEMMA QT cable](20260715_175143.jpg)
+!(20260715_175156.jpg)
+!(20260715_175201.jpg)
 
 ## Flashing the ESP32 with ESPHome, via Home Assistant
 
